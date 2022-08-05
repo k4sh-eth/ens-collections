@@ -1,0 +1,10 @@
+{
+  "name": "Male Firstnames Arabicb",
+  "slug": "MFN-ARABIC"
+  "description": "Male Firstnames Arabic Club ",
+  "twitter": "ArabicMfn",
+  "website": "",
+  "chat": "",
+  "logo": "MFN-ARABIC.png",
+  "csv": ["MFN-ARABIC.csv"]
+}
